@@ -1,2 +1,2 @@
 # Car-Price-Prediction
-"Predicting car prices using machine learning models to assist buyers and sellers in making informed decisions."
+Predicting the price of the Car using Machine Learning
